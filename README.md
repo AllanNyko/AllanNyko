@@ -5,7 +5,7 @@
 ## 🚀 Habilidades
 - **Back-end**: PHP, Laravel, Node.js
 - **Front-end**: React, jQuery, JavaScript
-- **Banco de Dados**: MySQL, MongoDB
+- **Banco de Dados**: MySQL,
 - **Ferramentas**: Git, Docker, Composer, NPM
 
   ### Contacts
