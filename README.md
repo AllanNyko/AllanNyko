@@ -12,5 +12,5 @@
 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor. Se tiver alguma dúvida ou quiser trocar uma ideia, sinta-se à vontade para me contatar!
 
 ## 📫 Como me encontrar
-- LinkedIn: [SeuPerfil](https://www.linkedin.com/in/allanguimaraes)
+- LinkedIn: (https://www.linkedin.com/in/allanguimaraes)
 - E-mail: allanguimaraes@outlook.pt
